@@ -1,7 +1,7 @@
 WelcomWelcome to Money Market Hub , a Website to Track Ups and Downs of Stock prices, Mutual Funds and Forex trading.
 # Output
 
-![Screenshot 2023-01-27 203517](https://github.com/prathmesh2121/Money-Market-Hub/assets/100065581/059e4f9d-7e5d-4b2f-8ff0-2c47ee07ac45)
+![Screenshot 2023-01-27 203517]
 
 ![Screenshot 2023-01-27 203703](https://github.com/prathmesh2121/Money-Market-Hub/assets/100065581/4c0deb34-43b6-42ec-89f9-82769ab0369b)
 
